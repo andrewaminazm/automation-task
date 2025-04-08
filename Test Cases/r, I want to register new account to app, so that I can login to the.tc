@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>r, I want to register new account to app, so that I can login to the</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89e5214d-b136-4f6c-afa7-498dd3b27f06</testCaseGuid>
+</TestCaseEntity>

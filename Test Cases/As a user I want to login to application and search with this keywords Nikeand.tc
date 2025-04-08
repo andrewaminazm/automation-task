@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As a user I want to login to application and search with this keywords Nikeand</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b5f615d-8d4b-4a02-bc16-17a1f7997259</testCaseGuid>
+</TestCaseEntity>
