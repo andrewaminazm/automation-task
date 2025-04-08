@@ -67,4 +67,4 @@ For example, in Jenkins:
 
 ### Example Command:
 ```bash
-katalon -noExit -runMode=console -projectPath="Path_to_Your_Project.prj" -retry=0 -testSuitePath="Test Suites/YourTestSuite"
+katalon -noExit -runMode=console -projectPath="automation-task.prj" -retry=0 -testSuitePath="Test Suites/completetask"
