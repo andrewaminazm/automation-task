@@ -15,8 +15,8 @@ Before you start, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repository/katalon-web-project.git
-    cd katalon-web-project
+    git clone https://github.com/andrewaminazm/automation-task.git
+    cd automation-task
     ```
 
 2. **Open the project in Katalon Studio:**
