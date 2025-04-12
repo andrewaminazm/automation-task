@@ -27,12 +27,12 @@ import internal.GlobalVariable
 
 public class ElementAssertions {
 
-		// This method verifies the visibility of an element and allows for failure handling
-		@Keyword
-		def static verifyElementVisible(String testObjectPath, FailureHandling failureHandling = FailureHandling.CONTINUE_ON_FAILURE) {
-			TestObject testObject = findTestObject(testObjectPath)
-			WebUI.verifyElementVisible(testObject, failureHandling)
-		}
+	// This method verifies the visibility of an element and allows for failure handling
+	@Keyword
+	def static verifyElementVisible(String testObjectPath, FailureHandling failureHandling = FailureHandling.CONTINUE_ON_FAILURE) {
+		TestObject testObject = findTestObject(testObjectPath)
+		WebUI.verifyElementVisible(testObject, failureHandling)
+	}
 
 	@Keyword
 	def verifyElementText(String testObjectPath, String expectedText, int timeout = 10) {

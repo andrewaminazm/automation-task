@@ -28,7 +28,7 @@ public class BrowserKeywords {
 		WebUI.navigateToUrl('https://magento.softwaretestingboard.com/')
 		WebUI.maximizeWindow()
 	}
-	
+
 
 	@Keyword
 	def closeBrowser() {

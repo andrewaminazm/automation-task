@@ -10,7 +10,7 @@ ElementAssert.verifyElementVisible('Object Repository/Page_Customer Login/input_
 ElementAssert.verifyElementVisible('Object Repository/Page_Customer Login/button_Sign In')
 CustomKeywords.'helpers.AuthKeywords.loadUserFromFile'()
 CustomKeywords.'helpers.AuthKeywords.loginUser'()
-ElementAssert.verifyElementVisible('Object Repository/Page_Customer Login/button_Sign In')
+
 ElementAssert.verifyElementVisible('Object Repository/Page_Home Page/input_Search_q')
 
 CustomKeywords.'helpers.SearchKeywords.searchFor'('Nike')
